@@ -1,7 +1,11 @@
 *{
 
 	font-family: 'Chilanka', cursive;
-background: url('images/background.jpg') no-repeat center fixed;
+
+}
+
+body{
+	background: url('images/background.jpg') no-repeat center center fixed;
 
 }
 
